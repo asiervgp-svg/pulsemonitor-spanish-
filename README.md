@@ -12,13 +12,6 @@ Dashboard web en tiempo real para monitorizar CPU, RAM y DISK de un equipo Windo
 - Acceso remoto mediante túnel (ngrok)
 - Bajo consumo de recursos
 
----
-
-## 📸 Screenshot
-![Dashboard](screenshots/dashboard.png)
-
----
-
 ## ⚙️ Instalación
 
 Instalar dependencias:
