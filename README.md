@@ -6,7 +6,7 @@ Incluye:
 - 🖥️ Aplicación Windows instalable (PulseMonitor)
 - 🤖 Bot de Telegram con alertas automáticas
 - 🌐 Acceso remoto
-- 📊 Monitorización CPU / RAM / DISK / GPU
+- 📊 Monitorización CPU / RAM / DISK
 - ⚙️ Automatización
 
 ---
@@ -20,21 +20,12 @@ Incluye:
 - Bajo consumo
 - Acceso local y remoto
 
-### Telegram Monitor Bot
-- Comandos interactivos
-- Alertas automáticas
-- Monitor continuo
-- Configuración dinámica
-- Servicio automático en Windows
-
 ---
 
 ## 🛠️ Tecnologías
 
 - Python
 - psutil
-- python-telegram-bot
-- GPUtil
 - HTTPServer
 - Inno Setup
 - Windows Task Scheduler
@@ -52,14 +43,6 @@ Proyecto personal para aprendizaje avanzado en:
 - Infraestructura
 
 Desarrollado por Asier.
-
-## 📸 Screenshots
-
-### PulseMonitor Dashboard
-![Dashboard](pulsemonitor-app/screenshots/dashboard.png)
-
-### Telegram Monitor Bot
-![Bot](telegram-bot/screenshots/bot.png)
 
 ## ⚙️Instalacion de la App
 
