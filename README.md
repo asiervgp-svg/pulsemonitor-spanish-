@@ -53,6 +53,14 @@ Proyecto personal para aprendizaje avanzado en:
 
 Desarrollado por Asier.
 
+## 📸 Screenshots
+
+### PulseMonitor Dashboard
+![Dashboard](pulsemonitor-app/screenshots/dashboard.png)
+
+### Telegram Monitor Bot
+![Bot](telegram-bot/screenshots/bot.png)
+
 ## ⚙️Instalacion de la App
 
 Instalar dependencias
