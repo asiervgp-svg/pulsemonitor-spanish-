@@ -1,20 +1,61 @@
-# 🖥️ Monitor Web Dashboard
+# ⚡ PulseMonitor Project
 
-Dashboard web en tiempo real para monitorizar CPU, RAM y DISK de un equipo Windows usando Python.
+Proyecto completo de monitorización de sistemas con dashboard web y bot de Telegram.
+
+Incluye:
+- 🖥️ Aplicación Windows instalable (PulseMonitor)
+- 🤖 Bot de Telegram con alertas automáticas
+- 🌐 Acceso remoto
+- 📊 Monitorización CPU / RAM / DISK / GPU
+- ⚙️ Automatización
 
 ---
 
 ## 🚀 Features
-- Lectura de métricas reales del sistema
-- Interfaz web moderna
-- Actualización en tiempo real
-- API JSON (`/api/stats`)
-- Acceso remoto mediante túnel (ngrok)
-- Bajo consumo de recursos
 
-## ⚙️ Instalación
+### PulseMonitor App
+- Dashboard web en tiempo real
+- Instalador Windows
+- Icono y accesos directos
+- Bajo consumo
+- Acceso local y remoto
 
-Instalar dependencias:
+### Telegram Monitor Bot
+- Comandos interactivos
+- Alertas automáticas
+- Monitor continuo
+- Configuración dinámica
+- Servicio automático en Windows
 
-```bash
+---
+
+## 🛠️ Tecnologías
+
+- Python
+- psutil
+- python-telegram-bot
+- GPUtil
+- HTTPServer
+- Inno Setup
+- Windows Task Scheduler
+- Networking
+
+---
+
+## 🎯 Objetivo del proyecto
+
+Proyecto personal para aprendizaje avanzado en:
+- Sistemas
+- Automatización
+- Redes
+- Programación
+- Infraestructura
+
+Desarrollado por Asier.
+
+## ⚙️Instalacion de la App
+
+Instalar dependencias
+
 pip install -r requirements.txt
+
